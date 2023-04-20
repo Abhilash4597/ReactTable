@@ -20,7 +20,7 @@ function App() {
 
   return (
     <div>
-      <h1 className="text-center mt-4">Personal Information Table</h1>
+      <h1>Personal Information Table</h1>
       <form>
         {/* onChange for search */}
 

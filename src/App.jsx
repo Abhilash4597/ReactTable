@@ -46,8 +46,8 @@ function App() {
                 ? item
                 : item.first_name.toLowerCase().includes(search);
             })
-            .map((item, index) => (
-              <tr key={index}>
+            .map((item, i) => (
+              <tr key={i}>
                 <td>{item.first_name}</td>
                 <td>{item.last_name}</td>
                 <td>{item.email}</td>

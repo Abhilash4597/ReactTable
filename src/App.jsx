@@ -3,27 +3,12 @@ import { data } from './Components/Data';
 // import './App.css';
 
 function App() {
-  // const [contacts, setContacts] = useState(data);
   const [search, setSearch] = useState('');
-
-  // const sortName = () => {
-  //   setContacts(
-  //     data.sort((a, b) => {
-  //       return a.first_name.toLowerCase() < a.first_name.toLowerCase()
-  //         ? -1
-  //         : a.first_name.toLowerCase() > a.first_name.toLowerCase()
-  //         ? 1
-  //         : 0;
-  //     })
-  //   );
-  // };
 
   return (
     <div>
       <h1>Personal Information Table</h1>
       <form>
-        {/* onChange for search */}
-
         <input
           type="text"
           onChange={e => setSearch(e.target.value)}

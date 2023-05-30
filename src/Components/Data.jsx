@@ -65,7 +65,7 @@ export const data = [
   {
     id: 10,
     first_name: 'Tiebold',
-    last_name: 'Powe',
+    last_name: 'Powel',
     email: 'tpowe9@dmoz.org',
     phone: '574-154-1045',
   },
@@ -79,7 +79,7 @@ export const data = [
   {
     id: 12,
     first_name: 'Janela',
-    last_name: 'Coite',
+    last_name: 'Coitel',
     email: 'jcoiteb@columbia.edu',
     phone: '241-621-1528',
   },
@@ -274,7 +274,7 @@ export const data = [
   },
   {
     id: 40,
-    first_name: 'Ric',
+    first_name: 'Rich',
     last_name: 'Sive',
     email: 'rsive13@accuweather.com',
     phone: '469-754-5234',

@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import { data } from './Components/Data';
-// import './App.css';
 
 function App() {
   const [search, setSearch] = useState('');

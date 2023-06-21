@@ -692,11 +692,4 @@ export const data = [
     email: 'ecleaver2q@businesswire.com',
     phone: '655-714-1759',
   },
-  {
-    id: 100,
-    first_name: 'Jehanna',
-    last_name: 'Emeney',
-    email: 'jemeney2r@ox.ac.uk',
-    phone: '650-186-3126',
-  },
 ];
